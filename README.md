@@ -28,11 +28,14 @@ I am a web dev in training that loves creating and building new apps! My backgro
 
 #### Projects I'm working on at the moment 🛠️
 - A full stack To do list application to help procrastinators like me organise their time!
-- [Front end](https://github.com/mcelle888/todo-frontend)
-- [Back end](https://github.com/mcelle888/todo-backend)
+  
+     [Front end](https://github.com/mcelle888/todo-frontend)
+
+     [Back end](https://github.com/mcelle888/todo-backend)
 
 #### Contact 📬
 - Email: smlxm08@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/michelle-l-xm/)
   
-Have a look at some more cool projects I've worked on below and thank you for visiting! 😊
+Have a look at some more cool projects I've worked on below!
+Thank you for visiting 😊
