@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Michelle!
 .
-I am a web dev in training that loves creating and building new apps! My background is in commerce and business, having recently operated a small business (Fish and chip shop 🐟) but my love for technology has led me to transition into the tech industry. You can visit my portfolio [here](https://portfolio-mcelle888s-projects.vercel.app/) to learn a little bit more about me and some key projects I've worked on!
+I am a web dev in training that loves creating and building new apps! My background is in commerce and business, having recently operated a small business (🐟 and 🍟 shop ) but my love for technology has led me to transition into the tech industry. You can visit my portfolio [here](https://portfolio-mcelle888s-projects.vercel.app/) to learn a little bit more about me and some key projects I've worked on!
 
 #### Skills 🚀
 - **Languages and Frameworks**:
