@@ -32,6 +32,9 @@ I am a web dev in training that loves creating and building new apps! My backgro
 
      [Back end](https://github.com/mcelle888/todo-backend)
 
+- A employee management application to create, list, modify and delete employees!
+    [Backend] (https://github.com/mcelle888/employee-manager-backend)
+
 #### Contact 📬
 - Email: smlxm08@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/michelle-l-xm/)
