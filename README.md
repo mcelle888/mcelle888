@@ -35,6 +35,8 @@ I am a web dev in training that loves creating and building new apps! My backgro
 - A employee management application to create, list, modify and delete employees!
   
     [Backend](https://github.com/mcelle888/employee-manager-backend)
+  
+    [Frontend](https://github.com/mcelle888/employee-manager-frontend)
 
 #### Contact 📬
 - Email: smlxm08@gmail.com
